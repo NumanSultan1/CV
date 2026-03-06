@@ -18,7 +18,7 @@ Here are a few academic projects I have worked on:
 3. **Dungeon Explorer** (C++ / Data Structures)
 
 ## 📂 Repository Contents
-- `CV.html`: The main HTML file containing the structure and styling of the CV.
+- `index.html`: The main HTML file containing the structure and styling of the CV.
 - `IMG_9602.JPG`: Profile picture used in the CV.
 
 ## ⚙️ How to Run
@@ -27,7 +27,7 @@ This is a static HTML page. To view it:
    ```bash
    git clone <repository-url>
    ```
-2. Open `CV.html` in your favorite web browser (Chrome, Firefox, Safari, Edge, etc.).
+2. Open `index.html` in your favorite web browser (Chrome, Firefox, Safari, Edge, etc.).
 
 ---
 *Feel free to explore my CV to learn more about my educational background and coding journey!*
